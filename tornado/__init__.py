@@ -23,4 +23,5 @@
 # or negative for a release candidate or beta (after the base version
 # number has been incremented)
 version = "6.1.dev1"
+__version__ = version
 version_info = (6, 1, 0, -100)
